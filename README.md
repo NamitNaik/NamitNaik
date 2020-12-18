@@ -2,7 +2,7 @@
 
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
 
-- 🔭 I'm currently working on [Enquiry Chatbots][course]!
+- 🔭 I'm currently working on [Enquiry Chatbots][repository]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -23,3 +23,4 @@
 [twitter]: https://twitter.com/NamitNaik23
 [facebook]: https://www.facebook.com/namit.naik.79
 [instagram]: https://www.instagram.com/namitnaik_23/
+[repository]: https://github.com/Sid-149/College-Enquiry-Chatbot
