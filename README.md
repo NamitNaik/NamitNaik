@@ -1,5 +1,5 @@
 
-<img  alt="Cover Pic" height="200px" width="400px" src="https://github.com/NamitNaik/NamitNaik/blob/main/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg"/>
+<img  alt="Cover Pic" height="200px" width="600px" src="https://github.com/NamitNaik/NamitNaik/blob/main/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg"/>
 
 ### Hi there, I'm Namit - [Namit's Personal Site][website] 👋
 
