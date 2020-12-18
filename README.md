@@ -41,6 +41,5 @@
 <br />
 <br />
 <br />
-<br />
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamitNaik&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/NamitNaik/github-readme-stats)
