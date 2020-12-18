@@ -2,7 +2,7 @@
 
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
 
-<img  align="right"  alt="Profile Pic" height="200px"  src="https://github.com/NamitNaik/NamitNaik/blob/main/Self.jpg"/>
+<img  align="right"  alt="Profile Pic" height="250px"  src="https://github.com/NamitNaik/NamitNaik/blob/main/Self.jpg"/>
 
 - 🔭 I'm currently working on [Enquiry Chatbots][repository]
 - 🌱 I’m currently learning [Rasa Framework][RASA]
