@@ -2,11 +2,12 @@
 
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
 
- - 🔭 I'm currently working on [Enquiry Chatbots][repository]
- - 🌱 I’m currently learning [Rasa Framework][RASA]
- - 🙋‍♂️ Ask me about HTML and Python                       
- - 🥅 2021 Goals: Contribute more to Open Source projects
- - ⚡ Fun fact: I love to play cricket and listen to music
+<img src="https://github.com/NamitNaik/NamitNaik/blob/main/Self.jpg" align="right" />
+- 🔭 I'm currently working on [Enquiry Chatbots][repository]
+- 🌱 I’m currently learning [Rasa Framework][RASA]
+- 🙋‍♂️ Ask me about HTML and Python                       
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to play cricket and listen to music
 
 ### Connect with me:
 
