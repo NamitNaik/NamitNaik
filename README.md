@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on [Enquiry Chatbots][repository] 
 - 🌱 I’m currently learning [Rasa Framework][RASA]
-- 🙋‍♂️ Ask me about HTML and Python                       &nbsp ![Self](https://github.com/NamitNaik/NamitNaik/blob/main/Self.jpg)
+- 🙋‍♂️ Ask me about HTML and Python                       &nbsp  &nbsp ![Self](https://github.com/NamitNaik/NamitNaik/blob/main/Self.jpg)
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and listen to music
 
