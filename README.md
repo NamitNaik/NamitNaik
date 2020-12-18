@@ -31,8 +31,8 @@
 
 <img align="left" alt="Namit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NamitNaik&show_icons=true&hide_border=true&theme=tokyonight" />
 
-
----
+<br />
+<br />
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamitNaik)](https://github.com/NamitNaik/github-readme-stats)
 
