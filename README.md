@@ -1,4 +1,4 @@
-### Hi there, I'm Namit - [Personal Site][website] 👋
+### Hi there, I'm Namit - [Namit's Personal Site][website] 👋
 
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
 
@@ -10,20 +10,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/metro/26/4a90e2/domain.png" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Namit's Peronal Site" width="22px" src="https://img.icons8.com/metro/26/4a90e2/domain.png" />][website]
+[<img align="left" alt="NamitNaik23 | Twitter" width="22px" src="hhttps://img.icons8.com/android/24/4a90e2/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
 [website]: https://namitnaik.github.io/CV/
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
+[twitter]: https://twitter.com/NamitNaik23
 [linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[instagram]: https://instagram.com/codeSTACKr
+
+
+<img src="https://img.icons8.com/android/24/4a90e2/twitter.png"/>
 
