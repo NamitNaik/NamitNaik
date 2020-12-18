@@ -11,9 +11,9 @@
 ### Connect with me:
 
 [<img align="left" alt="Namit's Peronal Site" width="22px" src="https://img.icons8.com/metro/26/4a90e2/domain.png" />][website]
-[<img align="left" alt="NamitNaik23 | Twitter" width="22px" src="hhttps://img.icons8.com/android/24/4a90e2/twitter.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="NamitNaik | Twitter" width="22px" src="hhttps://img.icons8.com/android/24/4a90e2/twitter.png" />][twitter]
+[<img align="left" alt="NamitNaik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NamitNaik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
