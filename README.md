@@ -16,7 +16,6 @@
 [<img align="left" alt="NamitNaik | Facebook" width="22px" src="https://img.icons8.com/android/24/4a90e2/facebook-new.png" />][facebook]
 [<img align="left" alt="NamitNaik | Instagram" width="22px" src="https://img.icons8.com/metro/26/4a90e2/instagram-new.png" />][instagram]
 
-<br />
 
 [website]: https://namitnaik.github.io/CV/
 [linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
@@ -26,13 +25,8 @@
 [repository]: https://github.com/Sid-149/College-Enquiry-Chatbot
 [RASA]: https://rasa.com/
 
-
-<br />
-<br />
-
 ---
 
-<summary>:zap: GitHub Stats</summary>
 <img align="left" alt="Namit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NamitNaik&show_icons=true&hide_border=true" />
 
 
