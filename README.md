@@ -2,7 +2,7 @@
 
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
 
-- 🔭 I'm currently working on [Enquiry Chatbots][repository]
+- 🔭 I'm currently working on [Enquiry Chatbots][repository] ![Self](https://github.com/NamitNaik/NamitNaik/blob/main/Self.jpg)
 - 🌱 I’m currently learning [Rasa Framework][RASA]
 - 🙋‍♂️ Ask me about HTML and Python
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Namit's Personal Site" width="22px" src="https://img.icons8.com/metro/26/4a90e2/domain.png" />][website]  ![Self](https://github.com/NamitNaik/NamitNaik/blob/main/Self.jpg)
+[<img align="left" alt="Namit's Personal Site" width="22px" src="https://img.icons8.com/metro/26/4a90e2/domain.png" />][website]  
 [<img align="left" alt="NamitNaik | LinkedIn" width="22px" src="https://img.icons8.com/android/24/4a90e2/linkedin.png" />][linkedin]
 [<img align="left" alt="NamitNaik | Twitter" width="22px" src="https://img.icons8.com/android/24/4a90e2/twitter.png" />][twitter]
 [<img align="left" alt="NamitNaik | Facebook" width="22px" src="https://img.icons8.com/android/24/4a90e2/facebook-new.png" />][facebook]
