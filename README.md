@@ -14,13 +14,13 @@
 [<img align="left" alt="NamitNaik | LinkedIn" width="22px" src="https://img.icons8.com/android/24/4a90e2/linkedin.png" />][linkedin]
 [<img align="left" alt="NamitNaik | Twitter" width="22px" src="https://img.icons8.com/android/24/4a90e2/twitter.png" />][twitter]
 [<img align="left" alt="NamitNaik | Facebook" width="22px" src="https://img.icons8.com/android/24/4a90e2/facebook-new.png" />][facebook]
-[<img align="left" alt="NamitNaik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="NamitNaik | Instagram" width="22px" src="https://img.icons8.com/metro/26/4a90e2/instagram-new.png" />][instagram]
 
 <br />
 
 [website]: https://namitnaik.github.io/CV/
 [linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
 [twitter]: https://twitter.com/NamitNaik23
-[facebook]: 
+[facebook]: https://www.facebook.com/namit.naik.79
 [instagram]: https://instagram.com/codeSTACKr
 
