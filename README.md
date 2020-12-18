@@ -8,8 +8,7 @@
  - 🥅 2021 Goals: Contribute more to Open Source projects
  - ⚡ Fun fact: I love to play cricket and listen to music
 
-## Connect with me:
-
+### Connect with me:
 
 
 [<img align="left" alt="Namit's Personal Site" width="22px" src="https://img.icons8.com/metro/26/4a90e2/domain.png" />][website]
