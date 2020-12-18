@@ -22,7 +22,7 @@
 [twitter]: https://twitter.com/NamitNaik23
 [facebook]: https://www.facebook.com/namit.naik.79
 [instagram]: https://www.instagram.com/namitnaik_23/
-[repository]: https://github.com/Sid-149/College-Enquiry-Chatbot
+[repository]: https://github.com/NamitNaik/College-Enquiry-Chatbot
 [RASA]: https://rasa.com/
 
 <br />
