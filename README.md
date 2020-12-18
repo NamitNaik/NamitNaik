@@ -22,5 +22,4 @@
 [linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
 [twitter]: https://twitter.com/NamitNaik23
 [facebook]: https://www.facebook.com/namit.naik.79
-[instagram]: https://instagram.com/codeSTACKr
-
+[instagram]: https://www.instagram.com/namitnaik_23/
