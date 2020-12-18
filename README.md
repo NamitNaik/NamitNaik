@@ -1,6 +1,3 @@
-
-<img  alt="Cover Pic" height="150px" width="800px" src="https://github.com/NamitNaik/NamitNaik/blob/main/header-02-compressor-1140x484.jpg"/>
-
 ### Hi there, I'm Namit - [Namit's Personal Site][website] 👋
 
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
