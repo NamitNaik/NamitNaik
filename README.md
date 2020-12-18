@@ -3,9 +3,8 @@
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
 
 - 🔭 I'm currently working on [Enquiry Chatbots][repository]
-- 🌱 I’m currently learning Rasa Framework
-- 👯 I’m looking to collaborate with other content creators
-- 🙋‍♂️ Ask me about HTML
+- 🌱 I’m currently learning [Rasa Framework][RASA]
+- 🙋‍♂️ Ask me about HTML and Python
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and listen to music
 
@@ -25,3 +24,4 @@
 [facebook]: https://www.facebook.com/namit.naik.79
 [instagram]: https://www.instagram.com/namitnaik_23/
 [repository]: https://github.com/Sid-149/College-Enquiry-Chatbot
+[RASA]: https://rasa.com/
