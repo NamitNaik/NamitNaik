@@ -3,8 +3,9 @@
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
 
 - 🔭 I'm currently working on [Enquiry Chatbots][repository]
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Rasa Framework
 - 👯 I’m looking to collaborate with other content creators
+- 🙋‍♂️ Ask me about HTML
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and listen to music
 
