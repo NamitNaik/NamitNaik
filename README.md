@@ -1,3 +1,6 @@
+
+<img  alt="Cover Pic" height="205px"  src="https://github.com/NamitNaik/NamitNaik/blob/main/coding_HERO.jpg"/>
+
 ### Hi there, I'm Namit - [Namit's Personal Site][website] 👋
 
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
