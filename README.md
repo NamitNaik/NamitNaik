@@ -1,5 +1,5 @@
 
-<img  alt="Cover Pic" src="https://github.com/NamitNaik/NamitNaik/blob/main/thumb-1920-35485.jpg"/>
+<img  alt="Cover Pic" src="https://github.com/NamitNaik/NamitNaik/blob/main/header-02-compressor-1140x484.jpg"/>
 
 ### Hi there, I'm Namit - [Namit's Personal Site][website] 👋
 
