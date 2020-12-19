@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=Namit's-Personal-Site&style=for-the-badge&url=https%3A%2F%2FNamit's-Personal-Site)](https://namitnaik.github.io/CV/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNamitNaik23&screen_name=NamitNaik23)
-
 <img  align="right"  alt="Profile Pic" height="205px"  src="https://github.com/NamitNaik/NamitNaik/blob/main/Self.png"/>
 
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
