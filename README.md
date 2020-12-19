@@ -1,4 +1,4 @@
-### Hi there, I'm Namit - [Namit's Personal Site][website] ![waving hand gif](https://github.com/NamitNaik/NamitNaik/blob/main/tenor.gif)
+### Hi there, I'm Namit - [Namit's Personal Site][website] 
 
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
 
