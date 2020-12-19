@@ -1,4 +1,4 @@
-### Hi there, I'm Namit - [Namit's Personal Site][website] <div class="tenor-gif-embed" data-postid="19369358" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/elsalla-gif-19369358">Elsalla GIF</a> from <a href="https://tenor.com/search/elsalla-gifs">Elsalla GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+### Hi there, I'm Namit - [Namit's Personal Site][website]
 
 ## I'm an Undergraduate Student and a Front-End Web Developer!!!
 
