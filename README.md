@@ -31,7 +31,7 @@
 <br />
 
 ---
-<img align="left" alt="Namit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NamitNaik&show_icons=true&theme=tokyonight" />  
+<img align="left" alt="Namit's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=NamitNaik&show_icons=true&hide_border=true&theme=tokyonight" />  
 <br />
 <br />
 <br />
@@ -43,4 +43,4 @@
 <br />
 <br />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamitNaik&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/NamitNaik/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamitNaik&layout=compact&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/NamitNaik/github-readme-stats)
