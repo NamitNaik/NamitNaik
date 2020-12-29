@@ -35,6 +35,7 @@
 <img align="left" alt="Matlab" width="22px" src="https://img.icons8.com/fluent/48/26e07f/matlab.png"/>
 <img align="left" alt="SQL" width="22px" src="https://img.icons8.com/color/48/26e07f/postgreesql.png"/>
 <img align="left" alt="Arduino" width="22px" src="https://img.icons8.com/fluent/48/26e07f/arduino.png"/>
+<img align="left" alt="VMWare" width="22px" src="https://img.icons8.com/color/48/26e07f/old-vmware-logo.png"/>
 
 [website]: https://namitnaik.github.io/CV/
 [linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
