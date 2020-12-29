@@ -30,7 +30,7 @@
 <img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>
 <img align="left" alt="HTML" width="22px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>
 <img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>
-<img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>
+<img align="left" alt="JS" width="22px" src="https://shutterstock.7eer.net/c/2052558/560528/1305?u=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2F1186054663"/>
 
 [website]: https://namitnaik.github.io/CV/
 [linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
