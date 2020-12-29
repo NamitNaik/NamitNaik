@@ -27,6 +27,8 @@
 <img align="left" alt="Atom" width="22px" src="https://img.icons8.com/ios-filled/50/26e07f/atom-editor.png"/>
 <img align="left" alt="C" width="22px" src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
 <img align="left" alt="JAVA" width="22px" src="https://img.icons8.com/ios-filled/50/4a90e2/java-coffee-cup-logo--v1.png"/>
+<img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>
+
 
 [website]: https://namitnaik.github.io/CV/
 [linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
