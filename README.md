@@ -25,7 +25,7 @@
 
 <img align="left" alt="VS Code" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
 <img align="left" alt="Atom" width="22px" src="https://img.icons8.com/ios-filled/50/26e07f/atom-editor.png"/>
-<img align="left" alt="Sublime Text" width="22px" src="https://img.icons8.com/fluent/48/26e07f/sublime-text.png"/>
+<img align="left" alt="Sublime Text" width="22px" src="https://img.icons8.com/fluent/96/4a90e2/sublime-text.png"/>
 
 [website]: https://namitnaik.github.io/CV/
 [linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
