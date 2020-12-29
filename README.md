@@ -23,6 +23,8 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="VS Code" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
+
 
 [website]: https://namitnaik.github.io/CV/
 [linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
