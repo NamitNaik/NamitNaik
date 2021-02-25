@@ -34,9 +34,10 @@
 <img align="left" alt="Git" width="22px" src="https://img.icons8.com/color/48/26e07f/git.png"/>
 <img align="left" alt="Matlab" width="22px" src="https://img.icons8.com/fluent/48/26e07f/matlab.png"/>
 <img align="left" alt="SQL" width="22px" src="https://img.icons8.com/color/48/26e07f/postgreesql.png"/>
+<img align="left" alt="RASA" width="22px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
 <img align="left" alt="Arduino" width="22px" src="https://img.icons8.com/fluent/48/26e07f/arduino.png"/>
 <img align="left" alt="VMWare" width="22px" src="https://img.icons8.com/color/48/26e07f/old-vmware-logo.png"/>
-<img align="left" alt="RASA" width="22px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
+
 
 
 
