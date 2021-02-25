@@ -25,6 +25,7 @@
 
 <img align="left" alt="VS Code" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
 <img align="left" alt="Atom" width="22px" src="https://img.icons8.com/ios-filled/50/26e07f/atom-editor.png"/>
+<img align="left" alt="Pycharm" width="22px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 <img align="left" alt="Eclipse" width="22px" src="https://www.nicepng.com/png/full/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png"/>
 <img align="left" alt="C" width="22px" src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
 <img align="left" alt="JAVA" width="22px" src="https://img.icons8.com/ios-filled/50/4a90e2/java-coffee-cup-logo--v1.png"/>
