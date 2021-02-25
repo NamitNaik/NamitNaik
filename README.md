@@ -29,7 +29,7 @@
 <img align="left" alt="C" width="22px" src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
 <img align="left" alt="JAVA" width="22px" src="https://img.icons8.com/ios-filled/50/4a90e2/java-coffee-cup-logo--v1.png"/>
 <img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>
-<img align="left" alt="Anaconda" width="22px" src="https://datarebellion.com/wp-content/uploads/2018/04/anaconda-logo-300x300.png"/>
+<img align="left" alt="Anaconda" width="22px" src="https://sdtimes.com/wp-content/uploads/2017/10/yNzTlI7P_400x400.jpg"/>
 <img align="left" alt="HTML" width="22px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>
 <img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>
 <img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>
