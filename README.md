@@ -36,7 +36,7 @@
 <img align="left" alt="Scilab" width="22px" src="https://gitcdn.xyz/cdn/AppImage/appimage.github.io/657c33cbfeb181aef6f46085cab83e3872f613b2/database/Scilab/icons/256x256/scilab.png"/>
 <img align="left" alt="Matlab" width="22px" src="https://img.icons8.com/fluent/48/26e07f/matlab.png"/>
 <img align="left" alt="SQL" width="22px" src="https://img.icons8.com/color/48/26e07f/postgreesql.png"/>
-<img align="left" alt="Cisco Packet Tracer" width="22px" src="https://pbs.twimg.com/profile_images/897630357104840706/k2KPXYZ2_400x400.jpg"/>
+<img align="left" alt="Cisco Packet Tracer" width="22px" src="https://www.logolynx.com/images/logolynx/cc/cce4526c175bf2cc3f4908b8a6c4dd07.png"/>
 <img align="left" alt="RASA" width="22px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
 <img align="left" alt="Arduino" width="22px" src="https://img.icons8.com/fluent/48/26e07f/arduino.png"/>
 <img align="left" alt="VMWare" width="22px" src="https://img.icons8.com/color/48/26e07f/old-vmware-logo.png"/>
