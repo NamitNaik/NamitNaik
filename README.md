@@ -29,7 +29,7 @@
 <img align="left" alt="C" width="22px" src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
 <img align="left" alt="JAVA" width="22px" src="https://img.icons8.com/ios-filled/50/4a90e2/java-coffee-cup-logo--v1.png"/>
 <img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>
-<img align="left" alt="Anaconda" width="22px" src="https://www.pngitem.com/pimgs/m/241-2413401_anaconda-python-icon-hd-png-download.png"/>
+<img align="left" alt="Anaconda" width="22px" src="https://www.clipartmax.com/png/middle/349-3490136_anaconda-icon-anaconda-python-icon.png"/>
 <img align="left" alt="HTML" width="22px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>
 <img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>
 <img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>
