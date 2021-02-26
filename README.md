@@ -15,7 +15,7 @@
 
 [<img align="left" alt="Namit's Personal Site" width="22px" src="https://img.icons8.com/metro/26/4a90e2/domain.png" border-radius="8px"/>][website]
 [<img align="left" alt="NamitNaik | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="NamitNaik | Twitter" width="22px" src="https://img.icons8.com/android/24/4a90e2/twitter.png" />][twitter]
+[<img align="left" alt="NamitNaik | Twitter" width="22px" src="https://www.mrrl.org/sites/default/files/2020-05/Logo-Twitter.jpg" />][twitter]
 [<img align="left" alt="NamitNaik | Facebook" width="22px" src="https://img.icons8.com/android/24/4a90e2/facebook-new.png" />][facebook]
 [<img align="left" alt="NamitNaik | Instagram" width="22px" src="https://img.icons8.com/metro/26/4a90e2/instagram-new.png" />][instagram]
 
