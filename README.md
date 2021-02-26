@@ -13,7 +13,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Namit's Personal Site" width="22px" src="https://www.freepnglogos.com/uploads/logo-internet-png/logo-internet-chemiphase-updated-website-goes-live-chemiphase-ltd-12.png"/>][website]
+[<img align="left" alt="Namit's Personal Site" width="22px" src="https://i.dlpng.com/static/png/6712016_preview.png"/>][website]
 [<img align="left" alt="NamitNaik | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="NamitNaik | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="NamitNaik | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/100px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
