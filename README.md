@@ -46,7 +46,7 @@
 
 
 
-[website]: https://namitnaik.github.io/CV/
+[website]: https://namitnaik.github.io/HTML-Personal-Site/
 [linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
 [twitter]: https://twitter.com/NamitNaik23
 [facebook]: https://www.facebook.com/namit.naik.79
