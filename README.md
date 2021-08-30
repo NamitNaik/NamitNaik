@@ -35,7 +35,7 @@
 <img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>
 <img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>
 <img align="left" alt="Git" width="22px" src="https://img.icons8.com/color/48/26e07f/git.png"/>
-<img align="left" alt="Scilab" width="22px" src="https://gitcdn.xyz/cdn/AppImage/appimage.github.io/657c33cbfeb181aef6f46085cab83e3872f613b2/database/Scilab/icons/256x256/scilab.png"/>
+<img align="left" alt="Scilab" width="22px" src="https://th.bing.com/th/id/OIP.BUXiwd-ffFBkVSRFqF5GYwD5D6?pid=ImgDet&rs=1"/>
 <img align="left" alt="Matlab" width="22px" src="https://img.icons8.com/fluent/48/26e07f/matlab.png"/>
 <img align="left" alt="SQL" width="22px" src="https://img.icons8.com/color/48/26e07f/postgreesql.png"/>
 <img align="left" alt="Cisco Packet Tracer" width="22px" src="https://www.logolynx.com/images/logolynx/cc/cce4526c175bf2cc3f4908b8a6c4dd07.png"/>
