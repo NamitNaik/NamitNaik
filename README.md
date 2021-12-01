@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNamitNaik23&screen_name=NamitNaik23) 
 ## I'm a Data Engineer and a Front-End Web Developer 👨‍💻
 
-- 🔭 I'm currently working on [Enquiry Chatbots][repository]
+- 🔭 I'm currently working on Enquiry Chatbots
 - 🌱 I’m currently learning [Rasa Framework][RASA]
 - 🙋‍♂️ Ask me about HTML and Python                       
 - 🥅 2021 Goals: Contribute more to Open Source projects
@@ -50,7 +50,6 @@
 [twitter]: https://twitter.com/NamitNaik23
 [facebook]: https://www.facebook.com/namit.naik.79
 [instagram]: https://www.instagram.com/namitnaik_23/
-[repository]: https://github.com/NamitNaik/College-Enquiry-Chatbot
 [RASA]: https://rasa.com/
 
 <br />
