@@ -31,6 +31,7 @@
 <img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>
 <img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>
 <img align="left" alt="Git" width="22px" src="https://img.icons8.com/color/48/26e07f/git.png"/>
+<img align="left" alt="GitHub" width="22px" src="https://img.icons8.com/nolan/64/github.png"/>
 <img align="left" alt="Oracle" width="30px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
 <img align="left" alt="MySQL" width="28px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 <img align="left" alt="Hadoop" width="22px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>
