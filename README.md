@@ -35,7 +35,8 @@
 <img align="left" alt="MySQL" width="28px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
 <img align="left" alt="Hadoop" width="22px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>
 <img align="left" alt="Tableau" width="22px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
-<img align="left" alt="Tableau" width="22px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img align="left" alt="AWS" width="22px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img align="left" alt="Ubuntu" width="22px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
 <img align="left" alt="RASA" width="22px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
 
 
