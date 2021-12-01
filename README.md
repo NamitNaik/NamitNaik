@@ -24,23 +24,15 @@
 ### Languages and Tools:
 
 <img align="left" alt="VS Code" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
-<img align="left" alt="Atom" width="22px" src="https://img.icons8.com/ios-filled/50/26e07f/atom-editor.png"/>
 <img align="left" alt="Pycharm" width="22px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img align="left" alt="Eclipse" width="22px" src="https://www.nicepng.com/png/full/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png"/>
-<img align="left" alt="C" width="22px" src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/>
-<img align="left" alt="JAVA" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>
 <img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>
 <img align="left" alt="Anaconda" width="22px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
 <img align="left" alt="HTML" width="22px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>
 <img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>
 <img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>
 <img align="left" alt="Git" width="22px" src="https://img.icons8.com/color/48/26e07f/git.png"/>
-<img align="left" alt="Matlab" width="22px" src="https://img.icons8.com/fluent/48/26e07f/matlab.png"/>
 <img align="left" alt="SQL" width="22px" src="https://img.icons8.com/color/48/26e07f/postgreesql.png"/>
-<img align="left" alt="Cisco Packet Tracer" width="22px" src="https://www.logolynx.com/images/logolynx/cc/cce4526c175bf2cc3f4908b8a6c4dd07.png"/>
 <img align="left" alt="RASA" width="22px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
-<img align="left" alt="Arduino" width="22px" src="https://img.icons8.com/fluent/48/26e07f/arduino.png"/>
-<img align="left" alt="VMWare" width="22px" src="https://img.icons8.com/color/48/26e07f/old-vmware-logo.png"/>
 
 
 
