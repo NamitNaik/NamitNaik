@@ -31,7 +31,7 @@
 <img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>
 <img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>
 <img align="left" alt="Git" width="22px" src="https://img.icons8.com/color/48/26e07f/git.png"/>
-<img align="left" alt="SQL" width="22px" src="https://img.icons8.com/color/48/26e07f/postgreesql.png"/>
+<img align="left" alt="Oracle" width="22px" src="https://icons8.com/icon/39913/oracle-logo"/>
 <img align="left" alt="RASA" width="22px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
 
 
