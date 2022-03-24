@@ -14,7 +14,7 @@
 
 
 [<img align="left" alt="Namit's Personal Site" width="22px" src="https://i.dlpng.com/static/png/6712016_preview.png"/>][website]
-[<img align="left" alt="NamitNaik | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="NamitNaik | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1648127827~hmac=a40ce9bf42cac1bed491530f8f017e71" />][linkedin]
 [<img align="left" alt="NamitNaik | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="NamitNaik | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/100px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="NamitNaik | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />][instagram]
