@@ -55,7 +55,6 @@
 [RASA]: https://rasa.com/
 
 <br />
-<br />
 
 
 ---
