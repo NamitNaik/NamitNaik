@@ -23,6 +23,7 @@
 
 ### Languages and Tools:
 
+
 <img align="left" alt="VS Code" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
 <img align="left" alt="Pycharm" width="22px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 <img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>
@@ -43,6 +44,7 @@
 <br />
 
 ### Badges:
+
 
 [<img align="left" alt="AWS-CCP" width="100px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][AWS-CCP]
 [<img align="left" alt="APN-Sales" width="100px" src="https://images.credly.com/size/680x680/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png"/>][APN-Sales]
