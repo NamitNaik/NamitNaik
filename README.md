@@ -44,7 +44,7 @@
 
 ### Badges:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="415c02ba-6108-47ce-9f4d-059a9573d5ac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[<img align="left" alt="Namit's Personal Site" width="100px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][website]
 
 
 [website]: https://namitnaik.github.io/HTML-Personal-Site/
