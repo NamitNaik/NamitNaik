@@ -40,7 +40,11 @@
 <img align="left" alt="GitHub" width="22px" src="https://img.icons8.com/nolan/64/github.png"/>
 <img align="left" alt="RASA" width="22px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
 
+<br />
 
+### Badges:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="415c02ba-6108-47ce-9f4d-059a9573d5ac" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 [website]: https://namitnaik.github.io/HTML-Personal-Site/
