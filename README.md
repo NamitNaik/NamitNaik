@@ -44,7 +44,7 @@
 
 ### Badges:
 
-[<img align="left" alt="Namit's Personal Site" width="100px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][website]
+[<img align="left" alt="AWS-CCP" width="100px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][AWS-CCP]
 
 
 [website]: https://namitnaik.github.io/HTML-Personal-Site/
@@ -53,6 +53,7 @@
 [facebook]: https://www.facebook.com/namit.naik.79
 [instagram]: https://www.instagram.com/namitnaik_23/
 [RASA]: https://rasa.com/
+[AWS-CCP]: https://www.credly.com/badges/415c02ba-6108-47ce-9f4d-059a9573d5ac/public_url
 
 <br />
 
