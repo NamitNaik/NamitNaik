@@ -44,7 +44,7 @@
 
 ### Badges:
 
-[<img align="left" alt="Namit's Personal Site" width="50px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][website]
+[<img align="left" alt="Namit's Personal Site" width="100px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][website]
 
 
 [website]: https://namitnaik.github.io/HTML-Personal-Site/
