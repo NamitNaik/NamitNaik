@@ -45,6 +45,10 @@
 ### Badges:
 
 [<img align="left" alt="AWS-CCP" width="100px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][AWS-CCP]
+[<img align="left" alt="APN-Sales" width="100px" src="https://images.credly.com/size/680x680/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png"/>][APN-Sales]
+[<img align="left" alt="APN-Business" width="100px" src="https://images.credly.com/size/680x680/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/>][APN-Business]
+[<img align="left" alt="APN-Technical" width="100px" src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"/>][APN-Technical]
+[<img align="left" alt="APN-Cloud-Economics" width="100px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png"/>][APN-Cloud-Economics]
 
 
 [website]: https://namitnaik.github.io/HTML-Personal-Site/
@@ -54,6 +58,10 @@
 [instagram]: https://www.instagram.com/namitnaik_23/
 [RASA]: https://rasa.com/
 [AWS-CCP]: https://www.credly.com/badges/415c02ba-6108-47ce-9f4d-059a9573d5ac/public_url
+[APN-Sales]: https://www.credly.com/badges/6235a902-a9e5-4646-970d-21d0752366e7/public_url
+[APN-Business]: https://www.credly.com/badges/40506a82-8027-434c-bb64-0eff9b885f60/public_url
+[APN-Technical]: https://www.credly.com/badges/bc163863-b845-4469-a859-0d364f64188c/public_url
+[APN-Cloud-Economics]: https://www.credly.com/badges/ec0e527b-26cb-4f77-b64e-9654bb5971ee/public_url
 
 <br />
 
