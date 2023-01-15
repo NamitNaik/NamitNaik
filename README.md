@@ -26,7 +26,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="VS Code" width="32px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
+[<img align="left" alt="VS Code" width="32px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>][VSCode]
 <img align="left" alt="Pycharm" width="32px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
 <img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>
 <img align="left" alt="Anaconda" width="32px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
@@ -59,6 +59,7 @@
 [facebook]: https://www.facebook.com/namit.naik.79
 [instagram]: https://www.instagram.com/namitnaik_23/
 [RASA]: https://rasa.com/
+[VSCode]: https://vscode.dev/
 [AWS-CCP]: https://www.credly.com/badges/415c02ba-6108-47ce-9f4d-059a9573d5ac/public_url
 [APN-Sales]: https://www.credly.com/badges/6235a902-a9e5-4646-970d-21d0752366e7/public_url
 [APN-Business]: https://www.credly.com/badges/40506a82-8027-434c-bb64-0eff9b885f60/public_url
