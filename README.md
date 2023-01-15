@@ -91,6 +91,7 @@
 [APN-Technical]: https://www.credly.com/badges/bc163863-b845-4469-a859-0d364f64188c/public_url
 [APN-Cloud-Economics]: https://www.credly.com/badges/ec0e527b-26cb-4f77-b64e-9654bb5971ee/public_url
 [Microsoft-Virtual-Badge]: https://www.theforage.com/badges/YLcWmeFX6HhTeZDvZ/aLSmJsEiQxdNunAK6/Badge%20of%20completion%20for%20the%20Engineering:%20Undergraduate%20&%20Masters%20Asia%20Virtual%20Experience%20Program/Namit
+
 <br />
 
 <br />
