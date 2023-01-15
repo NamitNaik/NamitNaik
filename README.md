@@ -60,17 +60,6 @@
 [<img align="left" alt="APN-Cloud-Economics" width="80px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png"/>][APN-Cloud-Economics]
 [<img align="left" alt="Microsoft-Virtual-Badge-1" width="80px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png"/>][Microsoft-Virtual-Badge-1]
 
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-[<img align="left" alt="Microsoft-Virtual-Badge-1" width="80px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png"/>][Microsoft-Virtual-Badge-1]
 
 <!--links-->
 [Website]: https://namitnaik.github.io/HTML-Personal-Site/
@@ -102,6 +91,8 @@
 [APN-Technical]: https://www.credly.com/badges/bc163863-b845-4469-a859-0d364f64188c/public_url
 [APN-Cloud-Economics]: https://www.credly.com/badges/ec0e527b-26cb-4f77-b64e-9654bb5971ee/public_url
 [Microsoft-Virtual-Badge-1]: https://www.theforage.com/badges/YLcWmeFX6HhTeZDvZ/aLSmJsEiQxdNunAK6/Badge%20of%20completion%20for%20the%20Engineering:%20Undergraduate%20&%20Masters%20Asia%20Virtual%20Experience%20Program/Namit
+
+<br />
 
 <br />
 
