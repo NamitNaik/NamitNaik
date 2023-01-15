@@ -58,7 +58,7 @@
 [<img align="left" alt="APN-Business" width="80x" src="https://images.credly.com/size/680x680/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/>][APN-Business]
 [<img align="left" alt="APN-Technical" width="80x" src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"/>][APN-Technical]
 [<img align="left" alt="APN-Cloud-Economics" width="80px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png"/>][APN-Cloud-Economics]
-[<img align="left" alt="APN-Technical" width="80x" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png"/>][Microsoft-Virtual-Badge]
+[<img align="left" alt="Microsoft-Virtual-Badge" width="80x" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png"/>][Microsoft-Virtual-Badge]
 
 <!--links-->
 [Website]: https://namitnaik.github.io/HTML-Personal-Site/
