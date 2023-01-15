@@ -24,6 +24,8 @@
 
 <br />
 
+<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="VS Code" width="32px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
