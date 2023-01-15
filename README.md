@@ -26,15 +26,15 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="VS Code" width="27px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>][VSCode]
-[<img align="left" alt="Pycharm" width="27px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>][PyCharm]
-[<img align="left" alt="Python" width="27px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>][Python]
-[<img align="left" alt="Anaconda" width="27px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>][Anaconda]
-[<img align="left" alt="Oracle" width="35px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>][Oracle]
-[<img align="left" alt="MySQL" width="33px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>][MySQL]
-[<img align="left" alt="Hadoop" width="27px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
-[<img align="left" alt="Spark" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>][Spark]
-[<img align="left" alt="Hive" width="30px" src="https://hive.apache.org//images/hive.svg"/>][Hive]
+[<img align="left" alt="VS Code" width="30px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>][VSCode]
+[<img align="left" alt="Pycharm" width="30px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>][PyCharm]
+[<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>][Python]
+[<img align="left" alt="Anaconda" width="30px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>][Anaconda]
+[<img align="left" alt="Oracle" width="38px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>][Oracle]
+[<img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>][MySQL]
+[<img align="left" alt="Hadoop" width="30px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
+[<img align="left" alt="Spark" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>][Spark]
+[<img align="left" alt="Hive" width="33px" src="https://hive.apache.org//images/hive.svg"/>][Hive]
 
 <br />
 
