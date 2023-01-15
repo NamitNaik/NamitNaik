@@ -1,9 +1,10 @@
 ### Hi there, I'm Namit - [Namit's Personal Site][website]<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height = "30px" width="30px" alt="hi"><img  align="right"  alt="Profile Pic" height="205px"  src="https://github.com/NamitNaik/NamitNaik/blob/main/Self.png"/>
 
-<br />
 
 [![Website](https://img.shields.io/website?label=Namit's-Personal-Site&style=for-the-badge&url=https%3A%2F%2FNamit's-Personal-Site)](https://namitnaik.github.io/HTML-Personal-Site/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FNamitNaik23&screen_name=NamitNaik23) 
+
+
 ## I'm a Data Engineer and a Front-End Web Developer 👨‍💻
 
 - 🔭 I'm currently working on Enquiry Chatbots
@@ -12,8 +13,8 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and listen to music
 
-### Connect with me:
 
+### Connect with me:
 
 [<img align="left" alt="Namit's Personal Site" width="22px" src="https://i.dlpng.com/static/png/6712016_preview.png"/>][website]
 [<img align="left" alt="NamitNaik | LinkedIn" width="25px" src="https://img.icons8.com/color/240/undefined/linkedin.png" />][linkedin]
@@ -24,7 +25,6 @@
 <br />
 
 ### Languages and Tools:
-
 
 <img align="left" alt="VS Code" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
 <img align="left" alt="Pycharm" width="22px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
@@ -46,7 +46,6 @@
 <br />
 
 ### Badges:
-
 
 [<img align="left" alt="AWS-CCP" width="100px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][AWS-CCP]
 [<img align="left" alt="APN-Sales" width="100px" src="https://images.credly.com/size/680x680/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png"/>][APN-Sales]
