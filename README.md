@@ -24,8 +24,6 @@
 
 <br />
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="VS Code" width="32px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
@@ -44,8 +42,6 @@
 <img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/26e07f/git.png"/>
 <img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/nolan/64/github.png"/>
 <img align="left" alt="RASA" width="32px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
-
-<br />
 
 <br />
 
