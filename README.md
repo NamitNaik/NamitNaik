@@ -60,6 +60,9 @@
 [<img align="left" alt="APN-Cloud-Economics" width="80px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png"/>][APN-Cloud-Economics]
 [<img align="left" alt="Microsoft-Virtual-Badge-1" width="80px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png"/>][Microsoft-Virtual-Badge-1]
 
+<br />
+
+<br />
 
 <br />
 
