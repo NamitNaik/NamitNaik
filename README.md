@@ -40,8 +40,6 @@
 
 <br />
 
-<br />
-
 [<img align="left" alt="Kafka" width="10px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7f0db783d89dc6a16ebb0ba5dd485234/aiven-for-apache-kafka.png"/>][Kafka]
 [<img align="left" alt="Tableau" width="10px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
 [<img align="left" alt="AWS" width="10px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
@@ -52,7 +50,7 @@
 [<img align="left" alt="Git" width="10px" src="https://img.icons8.com/color/48/26e07f/git.png"/>][Git]
 [<img align="left" alt="RASA" width="5px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>][RASA]
 
-<br />
+
 
 ### Badges:
 
