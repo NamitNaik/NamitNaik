@@ -33,7 +33,7 @@
 [<img align="left" alt="Oracle" width="35px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>][Oracle]
 [<img align="left" alt="MySQL" width="33px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>][MySQL]
 [<img align="left" alt="Hadoop" width="27px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
-[<img align="left" alt="Hadoop" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>][PySpark]
+[<img align="left" alt="Hadoop" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>][PySpark]
 [<img align="left" alt="Tableau" width="27px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
 [<img align="left" alt="AWS" width="27px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
 [<img align="left" alt="Ubuntu" width="27px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
