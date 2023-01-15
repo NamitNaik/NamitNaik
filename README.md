@@ -42,7 +42,7 @@
 
 [<img align="left" alt="Kafka" width="35px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7f0db783d89dc6a16ebb0ba5dd485234/aiven-for-apache-kafka.png"/>][Kafka]
 [<img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
-[<img align="left" alt="AWS" width="30px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
+[<img align="left" alt="AWS" width="10px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
 [<img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
 [<img align="left" alt="HTML" width="30px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>][HTML]
 [<img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>][CSS]
