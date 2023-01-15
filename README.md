@@ -26,22 +26,22 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="VS Code" width="22px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
-<img align="left" alt="Pycharm" width="22px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img align="left" alt="Python" width="22px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>
-<img align="left" alt="Anaconda" width="22px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-<img align="left" alt="Oracle" width="30px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
-<img align="left" alt="MySQL" width="28px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
-<img align="left" alt="Hadoop" width="22px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>
-<img align="left" alt="Tableau" width="22px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
-<img align="left" alt="AWS" width="22px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-<img align="left" alt="Ubuntu" width="22px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-<img align="left" alt="HTML" width="22px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>
-<img align="left" alt="CSS" width="22px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>
-<img align="left" alt="JS" width="22px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>
-<img align="left" alt="Git" width="22px" src="https://img.icons8.com/color/48/26e07f/git.png"/>
-<img align="left" alt="GitHub" width="22px" src="https://img.icons8.com/nolan/64/github.png"/>
-<img align="left" alt="RASA" width="22px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
+<img align="left" alt="VS Code" width="32px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>
+<img align="left" alt="Pycharm" width="32px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
+<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>
+<img align="left" alt="Anaconda" width="32px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
+<img align="left" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
+<img align="left" alt="MySQL" width="38px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
+<img align="left" alt="Hadoop" width="32px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>
+<img align="left" alt="Tableau" width="32px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
+<img align="left" alt="AWS" width="32px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+<img align="left" alt="Ubuntu" width="32px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+<img align="left" alt="HTML" width="32px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>
+<img align="left" alt="CSS" width="32px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>
+<img align="left" alt="JS" width="32px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>
+<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/26e07f/git.png"/>
+<img align="left" alt="GitHub" width="32px" src="https://img.icons8.com/nolan/64/github.png"/>
+<img align="left" alt="RASA" width="32px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
 
 <br />
 
