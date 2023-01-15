@@ -41,7 +41,7 @@
 <br />
 
 [<img align="left" alt="Kafka" width="32px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7f0db783d89dc6a16ebb0ba5dd485234/aiven-for-apache-kafka.png"/>][Kafka]
-[<img align="left" alt="Tableau" width="27px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
+[<img align="left" alt="Tableau" width="22px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
 [<img align="left" alt="AWS" width="27px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
 [<img align="left" alt="Ubuntu" width="27px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
 [<img align="left" alt="HTML" width="27px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>][HTML]
