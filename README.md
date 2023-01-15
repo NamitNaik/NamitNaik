@@ -48,7 +48,7 @@
 [<img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>][CSS]
 [<img align="left" alt="JS" width="30px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>][JavaScript]
 [<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/26e07f/git.png"/>][Git]
-[<img align="left" alt="RASA" width="30px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>][RASA]
+[<img align="left" alt="RASA" width="27px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>][RASA]
 
 <br />
 
