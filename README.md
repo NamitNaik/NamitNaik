@@ -16,11 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Namit's Personal Site" width="30px" src="https://i.dlpng.com/static/png/6712016_preview.png"/>][website]
-[<img align="left" alt="NamitNaik | LinkedIn" width="33px" src="https://img.icons8.com/color/240/undefined/linkedin.png" />][linkedin]
-[<img align="left" alt="NamitNaik | Twitter" width="33px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-[<img align="left" alt="NamitNaik | Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/100px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
-[<img align="left" alt="NamitNaik | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="left" alt="Namit's Personal Site" width="30px" src="https://i.dlpng.com/static/png/6712016_preview.png"/>][Website]
+[<img align="left" alt="NamitNaik | LinkedIn" width="33px" src="https://img.icons8.com/color/240/undefined/linkedin.png" />][Linkedin]
+[<img align="left" alt="NamitNaik | Twitter" width="33px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][Twitter]
+[<img align="left" alt="NamitNaik | Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/100px-Facebook_f_logo_%282019%29.svg.png" />][Facebook]
+[<img align="left" alt="NamitNaik | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />][Instagram]
 
 <br />
 
@@ -46,7 +46,7 @@
 [<img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
 [<img align="left" alt="HTML" width="30px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>][HTML]
 [<img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>][CSS]
-[<img align="left" alt="JS" width="30px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>][JavaScript]
+[<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>][JavaScript]
 [<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/26e07f/git.png"/>][Git]
 [<img align="left" alt="RASA" width="27px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>][RASA]
 <br />
@@ -60,11 +60,11 @@
 [<img align="left" alt="APN-Cloud-Economics" width="80px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png"/>][APN-Cloud-Economics]
 
 <!--links-->
-[website]: https://namitnaik.github.io/HTML-Personal-Site/
-[linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
-[twitter]: https://twitter.com/NamitNaik23
-[facebook]: https://www.facebook.com/namit.naik.79
-[instagram]: https://www.instagram.com/namitnaik_23/
+[Website]: https://namitnaik.github.io/HTML-Personal-Site/
+[Linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
+[Twitter]: https://twitter.com/NamitNaik23
+[Facebook]: https://www.facebook.com/namit.naik.79
+[Instagram]: https://www.instagram.com/namitnaik_23/
 [RASA]: https://rasa.com/
 [VSCode]: https://vscode.dev/
 [PyCharm]: https://www.jetbrains.com/pycharm/
