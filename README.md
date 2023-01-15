@@ -26,21 +26,21 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="VS Code" width="32px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>][VSCode]
-[<img align="left" alt="Pycharm" width="32px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>][PyCharm]
-[<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>][Python]
-[<img align="left" alt="Anaconda" width="32px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>][Anaconda]
-[<img align="left" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>][Oracle]
-[<img align="left" alt="MySQL" width="38px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>][MySQL]
-[<img align="left" alt="Hadoop" width="32px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
-[<img align="left" alt="Tableau" width="32px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
-[<img align="left" alt="AWS" width="32px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
-[<img align="left" alt="Ubuntu" width="32px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
-[<img align="left" alt="HTML" width="32px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>][HTML]
-[<img align="left" alt="CSS" width="32px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>][CSS]
-[<img align="left" alt="JS" width="32px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>][JavaScript]
-[<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/26e07f/git.png"/>][Git]
-[<img align="left" alt="RASA" width="32px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>][RASA]
+[<img align="left" alt="VS Code" width="27px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>][VSCode]
+[<img align="left" alt="Pycharm" width="27px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>][PyCharm]
+[<img align="left" alt="Python" width="27px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>][Python]
+[<img align="left" alt="Anaconda" width="27px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>][Anaconda]
+[<img align="left" alt="Oracle" width="35px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>][Oracle]
+[<img align="left" alt="MySQL" width="33px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>][MySQL]
+[<img align="left" alt="Hadoop" width="27px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
+[<img align="left" alt="Tableau" width="27px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
+[<img align="left" alt="AWS" width="27px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
+[<img align="left" alt="Ubuntu" width="27px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
+[<img align="left" alt="HTML" width="27px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>][HTML]
+[<img align="left" alt="CSS" width="27px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>][CSS]
+[<img align="left" alt="JS" width="27px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>][JavaScript]
+[<img align="left" alt="Git" width="27px" src="https://img.icons8.com/color/48/26e07f/git.png"/>][Git]
+[<img align="left" alt="RASA" width="27px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>][RASA]
 
 <br />
 
