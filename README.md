@@ -21,6 +21,7 @@
 [<img align="left" alt="NamitNaik | Twitter" width="33px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="NamitNaik | Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/100px-Facebook_f_logo_%282019%29.svg.png" />][facebook]
 [<img align="left" alt="NamitNaik | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />][instagram]
+
 <br />
 
 ### Languages and Tools:
@@ -34,6 +35,7 @@
 [<img align="left" alt="Hadoop" width="30px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
 [<img align="left" alt="Spark" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>][Spark]
 [<img align="left" alt="Hive" width="33px" src="https://hive.apache.org//images/hive.svg"/>][Hive]
+
 <br />
 
 <br />
@@ -86,6 +88,7 @@
 [APN-Business]: https://www.credly.com/badges/40506a82-8027-434c-bb64-0eff9b885f60/public_url
 [APN-Technical]: https://www.credly.com/badges/bc163863-b845-4469-a859-0d364f64188c/public_url
 [APN-Cloud-Economics]: https://www.credly.com/badges/ec0e527b-26cb-4f77-b64e-9654bb5971ee/public_url
+
 <br />
 
 <br />
