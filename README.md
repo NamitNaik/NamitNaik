@@ -27,20 +27,20 @@
 ### Languages and Tools:
 
 [<img align="left" alt="VS Code" width="32px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>][VSCode]
-<img align="left" alt="Pycharm" width="32px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>
-<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>
-<img align="left" alt="Anaconda" width="32px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>
-<img align="left" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
-<img align="left" alt="MySQL" width="38px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>
-<img align="left" alt="Hadoop" width="32px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>
-<img align="left" alt="Tableau" width="32px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>
-<img align="left" alt="AWS" width="32px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-<img align="left" alt="Ubuntu" width="32px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-<img align="left" alt="HTML" width="32px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>
-<img align="left" alt="CSS" width="32px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>
-<img align="left" alt="JS" width="32px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>
-<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/26e07f/git.png"/>
-<img align="left" alt="RASA" width="32px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>
+[<img align="left" alt="Pycharm" width="32px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>][PyCharm]
+[<img align="left" alt="Python" width="32px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>][Python]
+[<img align="left" alt="Anaconda" width="32px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>][Anaconda]
+[<img align="left" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>][Oracle]
+[<img align="left" alt="MySQL" width="38px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>][MySQL]
+[<img align="left" alt="Hadoop" width="32px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
+[<img align="left" alt="Tableau" width="32px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
+[<img align="left" alt="AWS" width="32px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
+[<img align="left" alt="Ubuntu" width="32px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
+[<img align="left" alt="HTML" width="32px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>][HTML]
+[<img align="left" alt="CSS" width="32px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>][CSS]
+[<img align="left" alt="JS" width="32px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>][JavaScript]
+[<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/48/26e07f/git.png"/>][Git]
+[<img align="left" alt="RASA" width="32px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>][RASA]
 
 <br />
 
@@ -52,7 +52,7 @@
 [<img align="left" alt="APN-Technical" width="100px" src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"/>][APN-Technical]
 [<img align="left" alt="APN-Cloud-Economics" width="100px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png"/>][APN-Cloud-Economics]
 
-
+<!--links-->
 [website]: https://namitnaik.github.io/HTML-Personal-Site/
 [linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
 [twitter]: https://twitter.com/NamitNaik23
@@ -60,6 +60,19 @@
 [instagram]: https://www.instagram.com/namitnaik_23/
 [RASA]: https://rasa.com/
 [VSCode]: https://vscode.dev/
+[PyCharm]: https://www.jetbrains.com/pycharm/
+[Python]: https://www.python.org/
+[Anaconda]: https://www.anaconda.com/
+[Oracle]: https://www.oracle.com/in/
+[MySQL]: https://www.mysql.com/
+[Hadoop]: https://hadoop.apache.org/
+[Tableau]: https://www.tableau.com/
+[AWS]: https://aws.amazon.com/
+[Ubuntu]: https://ubuntu.com/
+[HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[Git]: https://git-scm.com/
 [AWS-CCP]: https://www.credly.com/badges/415c02ba-6108-47ce-9f4d-059a9573d5ac/public_url
 [APN-Sales]: https://www.credly.com/badges/6235a902-a9e5-4646-970d-21d0752366e7/public_url
 [APN-Business]: https://www.credly.com/badges/40506a82-8027-434c-bb64-0eff9b885f60/public_url
