@@ -58,6 +58,7 @@
 [<img align="left" alt="APN-Business" width="80px" src="https://images.credly.com/size/680x680/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/>][APN-Business]
 [<img align="left" alt="APN-Technical" width="80px" src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"/>][APN-Technical]
 [<img align="left" alt="APN-Cloud-Economics" width="80px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png"/>][APN-Cloud-Economics]
+[<img align="left" alt="APN-CloudQuest-CP" width="80px" src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"/>][APN-CloudQuest-CP]
 [<img align="left" alt="Microsoft-Virtual-Badge" width="80px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png"/>][Microsoft-Virtual-Badge]
 
 
@@ -90,6 +91,7 @@
 [APN-Business]: https://www.credly.com/badges/40506a82-8027-434c-bb64-0eff9b885f60/public_url
 [APN-Technical]: https://www.credly.com/badges/bc163863-b845-4469-a859-0d364f64188c/public_url
 [APN-Cloud-Economics]: https://www.credly.com/badges/ec0e527b-26cb-4f77-b64e-9654bb5971ee/public_url
+[APN-CloudQuest-CP]: https://www.credly.com/badges/1e8e5275-8c4a-48af-ba5a-b6ecca000b10/public_url
 [Microsoft-Virtual-Badge]: https://www.theforage.com/badges/YLcWmeFX6HhTeZDvZ/aLSmJsEiQxdNunAK6/Badge%20of%20completion%20for%20the%20Engineering:%20Undergraduate%20&%20Masters%20Asia%20Virtual%20Experience%20Program/Namit
 
 <br />
