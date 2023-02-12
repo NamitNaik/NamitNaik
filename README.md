@@ -16,7 +16,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Namit's Personal Site" width="30px" src="https://img.icons8.com/ios-filled/50/000000/internet.png"/>][Website]
+[<img align="left" alt="Namit's Personal Site" width="30px" src="https://img.icons8.com/dusk/64/null/internet--v1.png"/>][Website]
 [<img align="left" alt="NamitNaik | LinkedIn" width="33px" src="https://img.icons8.com/color/240/undefined/linkedin.png" />][Linkedin]
 [<img align="left" alt="NamitNaik | Twitter" width="33px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][Twitter]
 [<img align="left" alt="NamitNaik | Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/100px-Facebook_f_logo_%282019%29.svg.png" />][Facebook]
