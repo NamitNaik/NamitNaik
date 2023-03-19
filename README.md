@@ -104,6 +104,6 @@
 
 ---
 
-<p align="center">[![Namit's github stats](https://github-readme-stats.vercel.app/api?username=NamitNaik&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)</p>
+[![Namit's github stats](https://github-readme-stats.vercel.app/api?username=NamitNaik&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamitNaik&layout=compact&theme=tokyonight&hide_border=true&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
