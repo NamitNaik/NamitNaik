@@ -7,8 +7,8 @@
 
 ## I'm a Data Engineer and a Front-End Web Developer 👨‍💻
 
-- 🔭 I'm currently working on Enquiry Chatbots
-- 🌱 I’m currently learning [Rasa][RASA]
+- 🔭 I'm currently working on [Amazon Web Services][AWS]
+- 🌱 I’m currently learning [Databricks][Databricks]
 - 🙋‍♂️ Ask me about Python & SQL                       
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and listen to music
@@ -68,7 +68,8 @@
 [Twitter]: https://twitter.com/NamitNaik23
 [Facebook]: https://www.facebook.com/namit.naik.79
 [Instagram]: https://www.instagram.com/namitnaik_23/
-[RASA]: https://rasa.com/
+[AWS]: https://aws.amazon.com/
+[Databricks]: https://www.databricks.com/
 [VSCode]: https://vscode.dev/
 [PyCharm]: https://www.jetbrains.com/pycharm/
 [Python]: https://www.python.org/
