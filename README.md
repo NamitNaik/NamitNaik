@@ -81,7 +81,6 @@
 [Hive]: https://hive.apache.org//images/hive.svg
 [Kafka]: https://kafka.apache.org/
 [Tableau]: https://www.tableau.com/
-[AWS]: https://aws.amazon.com/
 [Ubuntu]: https://ubuntu.com/
 [HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
