@@ -1,4 +1,4 @@
-### Hi there, I'm Namit - [Namit's Personal Site][Website]<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height = "30px" width="30px" alt="hi"><img  align="right"  alt="Profile Pic" height="205px"  src="https://github.com/NamitNaik/NamitNaik/blob/main/Self.png"/>
+### Hi there, I'm Namit - [Namit's Personal Site][Website]<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height = "30px" width="30px" alt="hi"><img  align="right"  alt="Profile Pic" height="205px" style="border-radius:50%" src="https://github.com/NamitNaik/NamitNaik/blob/main/Self.png"/>
 
 
 [![Website](https://img.shields.io/website?label=Namit's-Personal-Site&style=for-the-badge&url=https%3A%2F%2FNamit's-Personal-Site)][Website]
