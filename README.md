@@ -2,7 +2,7 @@
 
 
 [![Website](https://img.shields.io/website?label=Namit's-Personal-Site&style=for-the-badge&url=https%3A%2F%2FNamit's-Personal-Site)][Website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=twitter&style=for-the-badge)][Twitter]
+[![Twitter Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=X&style=for-the-badge)][Twitter]
 
 
 ## I'm a Data Engineer and a Front-End Web Developer 👨‍💻
