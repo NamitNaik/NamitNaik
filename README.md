@@ -87,6 +87,7 @@
 [CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [Git]: https://git-scm.com/
+[RASA]: https://rasa.com/
 [AWS-CCP]: https://www.credly.com/badges/415c02ba-6108-47ce-9f4d-059a9573d5ac/public_url
 [APN-Sales]: https://www.credly.com/badges/6235a902-a9e5-4646-970d-21d0752366e7/public_url
 [APN-Business]: https://www.credly.com/badges/40506a82-8027-434c-bb64-0eff9b885f60/public_url
