@@ -65,7 +65,7 @@
 <!--links-->
 [AWS]: https://aws.amazon.com/
 [Databricks]: https://www.databricks.com/
-[Website]: https://namitnaik.github.io/HTML-Personal-Site/
+[Website]: https://namitnaik.github.io/portfolio-website/
 [Linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
 [Twitter]: https://twitter.com/NamitNaik23
 [Facebook]: https://www.facebook.com/namit.naik.79
