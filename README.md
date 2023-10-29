@@ -1,7 +1,7 @@
 ### Hi there, I'm [Namit][Website]<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height = "30px" width="30px" alt="hi"><img  align="right"  alt="Profile Pic"  height="205px"  src="https://github.com/NamitNaik/NamitNaik/blob/main/Self.png"/>
 
 
-[![Website](https://img.shields.io/website?label=Namit's%20Portfolio%20Site%20🧑‍💻&style=for-the-badge&url=https%3A%2F%2Fnamitnaik.github.io/portfolio-website/)][Website]
+[![Website](https://img.shields.io/website?label=🧑‍💻%20Namit's%20Portfolio%20Site&style=for-the-badge&url=https%3A%2F%2Fnamitnaik.github.io/portfolio-website/)][Website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=X&style=for-the-badge)][Twitter]
 
 
