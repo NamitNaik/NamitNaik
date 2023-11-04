@@ -1,4 +1,4 @@
-### Hi there, I'm [Namit][Website]<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height = "30px" width="30px" alt="hi"><img  align="right"  alt="Profile Pic"  height="205px"  src="https://github.com/NamitNaik/NamitNaik/blob/main/Self.png"/>
+### Hi there, I'm [Namit][Website]<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height = "30px" width="30px" alt="hi">
 
 [![Website](https://img.shields.io/website?label=🧑‍💻%20Namit's%20Portfolio%20Site&style=for-the-badge&url=https%3A%2F%2Fnamitnaik.github.io/portfolio-website/)][Website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=X&style=for-the-badge)][Twitter]
@@ -28,30 +28,6 @@
 [Twitter]: https://twitter.com/NamitNaik23
 [Facebook]: https://www.facebook.com/namit.naik.79
 [Instagram]: https://www.instagram.com/namitnaik_23/
-[VSCode]: https://vscode.dev/
-[PyCharm]: https://www.jetbrains.com/pycharm/
-[Python]: https://www.python.org/
-[Anaconda]: https://www.anaconda.com/
-[Oracle]: https://www.oracle.com/in/
-[MySQL]: https://www.mysql.com/
-[Hadoop]: https://hadoop.apache.org/
-[Spark]: https://spark.apache.org/
-[Hive]: https://hive.apache.org//images/hive.svg
-[Kafka]: https://kafka.apache.org/
-[Tableau]: https://www.tableau.com/
-[Ubuntu]: https://ubuntu.com/
-[HTML]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[CSS]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[JavaScript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[Git]: https://git-scm.com/
-[RASA]: https://rasa.com/
-[AWS-CCP]: https://www.credly.com/badges/415c02ba-6108-47ce-9f4d-059a9573d5ac/public_url
-[APN-Sales]: https://www.credly.com/badges/6235a902-a9e5-4646-970d-21d0752366e7/public_url
-[APN-Business]: https://www.credly.com/badges/40506a82-8027-434c-bb64-0eff9b885f60/public_url
-[APN-Technical]: https://www.credly.com/badges/bc163863-b845-4469-a859-0d364f64188c/public_url
-[APN-Cloud-Economics]: https://www.credly.com/badges/ec0e527b-26cb-4f77-b64e-9654bb5971ee/public_url
-[APN-CloudQuest-CP]: https://www.credly.com/badges/1e8e5275-8c4a-48af-ba5a-b6ecca000b10/public_url
-[Microsoft-Virtual-Badge]: https://www.theforage.com/badges/YLcWmeFX6HhTeZDvZ/aLSmJsEiQxdNunAK6/Badge%20of%20completion%20for%20the%20Engineering:%20Undergraduate%20&%20Masters%20Asia%20Virtual%20Experience%20Program/Namit
 
 <br />
 
