@@ -19,36 +19,6 @@
 [<img align="left" alt="NamitNaik | Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/100px-Facebook_f_logo_%282019%29.svg.png" />][Facebook]
 [<img align="left" alt="NamitNaik | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />][Instagram]
 
-<br />
-
-### Badges:
-
-[<img align="left" alt="AWS-CCP" width="75px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][AWS-CCP]
-[<img align="left" alt="APN-Sales" width="75px" src="https://images.credly.com/size/680x680/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png"/>][APN-Sales]
-[<img align="left" alt="APN-Business" width="75px" src="https://images.credly.com/size/680x680/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/>][APN-Business]
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-[<img align="left" alt="APN-Technical" width="75px" src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"/>][APN-Technical]
-[<img align="left" alt="APN-Cloud-Economics" width="75px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png"/>][APN-Cloud-Economics]
-[<img align="left" alt="APN-CloudQuest-CP" width="75px" src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"/>][APN-CloudQuest-CP]
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
-[<img align="left" alt="Microsoft-Virtual-Badge" width="75px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png"/>][Microsoft-Virtual-Badge]
-
 <!--links-->
 
 [AWS]: https://aws.amazon.com/
