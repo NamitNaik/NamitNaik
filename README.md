@@ -3,19 +3,17 @@
 [![Website](https://img.shields.io/website?label=🧑‍💻%20Namit's%20Portfolio%20Site&style=for-the-badge&url=https%3A%2F%2Fnamitnaik.github.io/portfolio-website/)][Website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=X&style=for-the-badge)][Twitter]
 
-
 ## I'm a Data Engineer and a Front-End Web Developer 👨‍💻
 
 - 🔭 I'm currently working on [Amazon Web Services][AWS]
 - 🌱 I’m currently learning [Databricks][Databricks]
-- 🙋‍♂️ Ask me about Python & SQL                       
+- 🙋‍♂️ Ask me about Python & SQL
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and listen to music
 
-
 ### Connect with me:
 
-[<img align="left" alt="Namit's Personal Site" width="30px" src="https://img.icons8.com/dusk/64/null/internet--v1.png"/>][Website]
+<a href="https://namitnaik.github.io/portfolio-website/" target="blank"><img align="left" alt="Namit's Personal Site" width="30px" src="https://img.icons8.com/dusk/64/null/internet--v1.png"/></a>
 [<img align="left" alt="NamitNaik | LinkedIn" width="33px" src="https://img.icons8.com/color/240/undefined/linkedin.png" />][Linkedin]
 [<img align="left" alt="NamitNaik | Twitter" width="33px" src="https://img.icons8.com/nolan/64/twitterx.png" />][Twitter]
 [<img align="left" alt="NamitNaik | Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/100px-Facebook_f_logo_%282019%29.svg.png" />][Facebook]
@@ -72,7 +70,6 @@
 
 <br />
 
-
 [<img align="left" alt="APN-Technical" width="80px" src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"/>][APN-Technical]
 [<img align="left" alt="APN-Cloud-Economics" width="80px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png"/>][APN-Cloud-Economics]
 [<img align="left" alt="APN-CloudQuest-CP" width="80px" src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"/>][APN-CloudQuest-CP]
@@ -89,8 +86,8 @@
 
 <br />
 
-
 <!--links-->
+
 [AWS]: https://aws.amazon.com/
 [Databricks]: https://www.databricks.com/
 [Website]: https://namitnaik.github.io/portfolio-website/
