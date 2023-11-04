@@ -14,7 +14,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://namitnaik.github.io/portfolio-website/" target="blank"><img align="left" alt="Namit's Personal Site" width="30px" src="https://img.icons8.com/dusk/64/null/internet--v1.png"/></a>
+<a href="https://namitnaik.github.io/portfolio-website/" target="_blank"><img align="left" alt="Namit's Personal Site" width="30px" src="https://img.icons8.com/dusk/64/null/internet--v1.png"/></a>
 </p>
 [<img align="left" alt="NamitNaik | LinkedIn" width="33px" src="https://img.icons8.com/color/240/undefined/linkedin.png" />][Linkedin]
 [<img align="left" alt="NamitNaik | Twitter" width="33px" src="https://img.icons8.com/nolan/64/twitterx.png" />][Twitter]
