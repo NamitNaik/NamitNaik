@@ -21,34 +21,6 @@
 
 <br />
 
-### Languages and Tools:
-
-[<img align="left" alt="VS Code" width="30px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>][VSCode]
-[<img align="left" alt="Pycharm" width="30px" src="https://img.icons8.com/color/48/000000/pycharm.png"/>][PyCharm]
-[<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>][Python]
-[<img align="left" alt="Anaconda" width="30px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>][Anaconda]
-[<img align="left" alt="Oracle" width="38px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>][Oracle]
-[<img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>][MySQL]
-[<img align="left" alt="Hadoop" width="30px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
-[<img align="left" alt="Spark" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>][Spark]
-[<img align="left" alt="Hive" width="33px" src="https://hive.apache.org//images/hive.svg"/>][Hive]
-
-<br />
-
-<br />
-
-[<img align="left" alt="Kafka" width="35px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7f0db783d89dc6a16ebb0ba5dd485234/aiven-for-apache-kafka.png"/>][Kafka]
-[<img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
-[<img align="left" alt="AWS" width="30px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
-[<img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
-[<img align="left" alt="HTML" width="30px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>][HTML]
-[<img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>][CSS]
-[<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>][JavaScript]
-[<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/26e07f/git.png"/>][Git]
-[<img align="left" alt="RASA" width="27px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>][RASA]
-
-<br />
-
 ### Badges:
 
 [<img align="left" alt="AWS-CCP" width="80px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][AWS-CCP]
