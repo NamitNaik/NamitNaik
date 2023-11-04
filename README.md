@@ -13,14 +13,11 @@
 
 ### Connect with me:
 
-<p align="left">
-<a href="https://namitnaik.github.io/portfolio-website/" target="_blank"><img align="left" alt="Namit's Personal Site" width="30px" src="https://img.icons8.com/dusk/64/null/internet--v1.png"/></a>
-</p>
+[<img align="left" alt="Namit's Personal Site" width="30px" src="https://img.icons8.com/dusk/64/null/internet--v1.png"/>][Website]
 [<img align="left" alt="NamitNaik | LinkedIn" width="33px" src="https://img.icons8.com/color/240/undefined/linkedin.png" />][Linkedin]
 [<img align="left" alt="NamitNaik | Twitter" width="33px" src="https://img.icons8.com/nolan/64/twitterx.png" />][Twitter]
 [<img align="left" alt="NamitNaik | Facebook" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/100px-Facebook_f_logo_%282019%29.svg.png" />][Facebook]
 [<img align="left" alt="NamitNaik | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />][Instagram]
-
 
 <br />
 
@@ -33,16 +30,21 @@
 [<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>][Python]
 [<img align="left" alt="Anaconda" width="30px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>][Anaconda]
 [<img align="left" alt="Oracle" width="38px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>][Oracle]
+
+<br />
+
+<br />
+
 [<img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>][MySQL]
 [<img align="left" alt="Hadoop" width="30px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
 [<img align="left" alt="Spark" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>][Spark]
 [<img align="left" alt="Hive" width="33px" src="https://hive.apache.org//images/hive.svg"/>][Hive]
-
-<br />
-
-<br />
-
 [<img align="left" alt="Kafka" width="35px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7f0db783d89dc6a16ebb0ba5dd485234/aiven-for-apache-kafka.png"/>][Kafka]
+
+<br />
+
+<br />
+
 [<img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
 [<img align="left" alt="AWS" width="30px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
 [<img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
