@@ -1,4 +1,4 @@
-### Hi there, I'm [Namit][Website]<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height = "30px" width="30px" alt="hi">
+### Hi there, I'm [Namit][Website]<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height = "30px" width="30px" alt="hi"><img  align="right"  alt="Profile Pic"  height="205px"  src="https://github.com/NamitNaik/NamitNaik/blob/main/Self.png"/>
 
 [![Website](https://img.shields.io/website?label=🧑‍💻%20Namit's%20Portfolio%20Site&style=for-the-badge&url=https%3A%2F%2Fnamitnaik.github.io/portfolio-website/)][Website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=X&style=for-the-badge)][Twitter]
@@ -21,8 +21,6 @@
 
 <br />
 
-<br />
-
 ### Languages and Tools:
 
 [<img align="left" alt="VS Code" width="30px" src="https://img.icons8.com/fluent/48/4a90e2/visual-studio-code-2019.png"/>][VSCode]
@@ -30,35 +28,24 @@
 [<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>][Python]
 [<img align="left" alt="Anaconda" width="30px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>][Anaconda]
 [<img align="left" alt="Oracle" width="38px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>][Oracle]
-
-<br />
-
-<br />
-
 [<img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>][MySQL]
 [<img align="left" alt="Hadoop" width="30px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
 [<img align="left" alt="Spark" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>][Spark]
 [<img align="left" alt="Hive" width="33px" src="https://hive.apache.org//images/hive.svg"/>][Hive]
+
+<br />
+
+<br />
+
 [<img align="left" alt="Kafka" width="35px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7f0db783d89dc6a16ebb0ba5dd485234/aiven-for-apache-kafka.png"/>][Kafka]
-
-<br />
-
-<br />
-
 [<img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
 [<img align="left" alt="AWS" width="30px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
 [<img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
 [<img align="left" alt="HTML" width="30px" src="https://img.icons8.com/color/48/4a90e2/html-5.png"/>][HTML]
 [<img align="left" alt="CSS" width="30px" src="https://img.icons8.com/color/48/26e07f/css3.png"/>][CSS]
-
-<br />
-
-<br />
-
 [<img align="left" alt="JavaScript" width="30px" src="https://img.icons8.com/color/48/26e07f/javascript.png"/>][JavaScript]
 [<img align="left" alt="Git" width="30px" src="https://img.icons8.com/color/48/26e07f/git.png"/>][Git]
 [<img align="left" alt="RASA" width="27px" src="https://www.gartner.com/imagesrv/peer-insights/vendors/logos/rasa.svg"/>][RASA]
-
 <br />
 
 ### Badges:
@@ -66,30 +53,10 @@
 [<img align="left" alt="AWS-CCP" width="80px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][AWS-CCP]
 [<img align="left" alt="APN-Sales" width="80px" src="https://images.credly.com/size/680x680/images/a12fff38-aab2-4643-be27-7e5c39ddc75c/image.png"/>][APN-Sales]
 [<img align="left" alt="APN-Business" width="80px" src="https://images.credly.com/size/680x680/images/7b2c708c-a3e1-4c7f-985c-b6b62a5b1db8/image.png"/>][APN-Business]
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
 [<img align="left" alt="APN-Technical" width="80px" src="https://images.credly.com/size/680x680/images/81f903ed-c3a1-4f4b-afcd-e03331a5b12c/image.png"/>][APN-Technical]
 [<img align="left" alt="APN-Cloud-Economics" width="80px" src="https://images.credly.com/size/680x680/images/ee35f7c5-696e-47ca-895c-960dfba108b3/image.png"/>][APN-Cloud-Economics]
 [<img align="left" alt="APN-CloudQuest-CP" width="80px" src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"/>][APN-CloudQuest-CP]
-
-<br />
-
-<br />
-
-<br />
-
-<br />
-
 [<img align="left" alt="Microsoft-Virtual-Badge" width="80px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png"/>][Microsoft-Virtual-Badge]
-
-<br />
 
 <!--links-->
 
