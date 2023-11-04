@@ -32,21 +32,16 @@
 [<img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/4a90e2/python.png"/>][Python]
 [<img align="left" alt="Anaconda" width="30px" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>][Anaconda]
 [<img align="left" alt="Oracle" width="38px" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>][Oracle]
-
-<br />
-
-<br />
-
 [<img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/color/50/000000/mysql-logo.png"/>][MySQL]
 [<img align="left" alt="Hadoop" width="30px" src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png"/>][Hadoop]
 [<img align="left" alt="Spark" width="38px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png"/>][Spark]
 [<img align="left" alt="Hive" width="33px" src="https://hive.apache.org//images/hive.svg"/>][Hive]
+
+<br />
+
+<br />
+
 [<img align="left" alt="Kafka" width="35px" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_7f0db783d89dc6a16ebb0ba5dd485234/aiven-for-apache-kafka.png"/>][Kafka]
-
-<br />
-
-<br />
-
 [<img align="left" alt="Tableau" width="30px" src="https://img.icons8.com/color/48/000000/tableau-software.png"/>][Tableau]
 [<img align="left" alt="AWS" width="30px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>][AWS]
 [<img align="left" alt="Ubuntu" width="30px" src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>][Ubuntu]
