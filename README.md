@@ -31,6 +31,10 @@
 [<img align="left" alt="APN-CloudQuest-CP" width="80px" src="https://images.credly.com/size/680x680/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png"/>][APN-CloudQuest-CP]
 [<img align="left" alt="Microsoft-Virtual-Badge" width="80px" src="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/F9NstoYweMhrBLf2u/cAGzaHrsSeBPSicgw/ENG%20VEP.png"/>][Microsoft-Virtual-Badge]
 
+<br />
+
+<br />
+
 <!--links-->
 
 [AWS]: https://aws.amazon.com/
