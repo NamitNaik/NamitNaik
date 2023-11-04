@@ -49,8 +49,6 @@
 
 <br />
 
-<br />
-
 ### Badges:
 
 [<img align="left" alt="AWS-CCP" width="80px" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>][AWS-CCP]
