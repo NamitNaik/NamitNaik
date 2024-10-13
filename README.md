@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on [Amazon Web Services][AWS]
 - 🌱 I’m currently learning [Databricks][Databricks]
 - 🙋‍♂️ Ask me about Python & SQL
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and listen to music
 
 ### Connect with me:
