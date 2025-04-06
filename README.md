@@ -5,11 +5,11 @@
 
 ## I'm a Data Engineer and a Front-End Web Developer 👨‍💻
 
-- 🔭 I'm currently working on [Amazon Web Services][AWS]
-- 🌱 I’m currently learning [Databricks][Databricks]
+- 🔭 I'm currently working on Kafka[Kafka] and Flink[Flink] for real-time data processing
+- 🌱 I’m currently learning [Hudi][Hudi] to enhance data lake management
 - 🙋‍♂️ Ask me about Python & SQL
 - 🥅 2024 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play cricket and listen to music
+- ⚡ Fun fact: I'm an avid cricket enthusiast and enjoy exploring new music genres
 
 ### Connect with me:
 
@@ -21,8 +21,9 @@
 
 <!--links-->
 
-[AWS]: https://aws.amazon.com/
-[Databricks]: https://www.databricks.com/
+[Kafka]: https://kafka.apache.org/
+[Flink]: https://flink.apache.org/
+[Hudi]: https://hudi.apache.org/
 [Website]: https://namitnaik.github.io/portfolio-website/
 [Linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
 [Twitter]: https://twitter.com/NamitNaik23
