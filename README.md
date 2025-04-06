@@ -1,7 +1,7 @@
 ### Hi there, I'm [Namit][Website]<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height = "30px" width="30px" alt="hi">
 
 [![Website](https://img.shields.io/website?label=🧑‍💻%20Namit's%20Portfolio%20Site&style=for-the-badge&url=https%3A%2F%2Fnamitnaik.github.io/portfolio-website/)][Website]
-[![Twitter Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=X&style=for-the-badge)][Twitter]
+[![X Follow](https://img.shields.io/twitter/follow/NamitNaik23?color=1DA1F2&logo=X&style=for-the-badge)][X]
 
 ## I'm a Data Engineer and a Front-End Web Developer 👨‍💻
 
@@ -26,7 +26,7 @@
 [Hudi]: https://hudi.apache.org/
 [Website]: https://namitnaik.github.io/portfolio-website/
 [Linkedin]: https://www.linkedin.com/in/namit-naik-496183194/
-[Twitter]: https://twitter.com/NamitNaik23
+[X]: https://x.com/NamitNaik23
 [Facebook]: https://www.facebook.com/namit.naik.79
 [Instagram]: https://www.instagram.com/namitnaik_23/
 
