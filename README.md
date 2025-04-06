@@ -5,8 +5,8 @@
 
 ## I'm a Data Engineer and a Front-End Web Developer 👨‍💻
 
-- 🔭 I'm currently working on [Kafka][Kafka] and [Flink][Flink] for real-time data processing
-- 🌱 I’m currently learning [Hudi][Hudi] to enhance data lake management
+- 🔭 I'm currently working on [Apache Kafka][Kafka] and [Apache Flink][Flink] for real-time data processing
+- 🌱 I’m currently learning [Apache Hudi][Hudi] to enhance data lake management
 - 🙋‍♂️ Ask me about Python & SQL
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I'm an avid cricket enthusiast and enjoy exploring new music genres
