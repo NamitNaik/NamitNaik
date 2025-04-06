@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on [Apache Kafka][Kafka] and [Apache Flink][Flink] for real-time data processing
 - 🌱 I’m currently learning [Apache Hudi][Hudi] to enhance data lake management
 - 🙋‍♂️ Ask me about Python & SQL
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2025 Goals: Contribute more to open source projects
 - ⚡ Fun fact: I'm an avid cricket enthusiast and enjoy exploring new music genres
 
 ### Connect with me:
